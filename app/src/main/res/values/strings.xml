@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XMLMenu</string>
+
+
+    <string name="add_new">Add Item</string>
+    <string name="remove">RemoveItem</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
